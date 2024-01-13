@@ -2,6 +2,8 @@
 
 Sidecar process for updating `lilipad_config.json` on a box.
 
+[Docker Hub](https://hub.docker.com/repository/docker/awkwardsandwich7/lilipad-agent/general).
+
 ## Quickstart
 
 ```
